@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.315fb713.chunk.css",
+    "main.js": "/static/js/main.50e84262.chunk.js",
+    "main.js.map": "/static/js/main.50e84262.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d08bf9cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d08bf9cf.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.56a0e1e0.chunk.js": "/static/js/2.56a0e1e0.chunk.js",
+    "static/js/2.56a0e1e0.chunk.js.map": "/static/js/2.56a0e1e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.315fb713.chunk.css.map": "/static/css/main.315fb713.chunk.css.map",
+    "static/js/2.56a0e1e0.chunk.js.LICENSE.txt": "/static/js/2.56a0e1e0.chunk.js.LICENSE.txt",
+    "static/media/Zelda.8c8575d8.jpeg": "/static/media/Zelda.8c8575d8.jpeg",
+    "static/media/atardecer.22fbb9eb.jpg": "/static/media/atardecer.22fbb9eb.jpg",
+    "static/media/carro.d36055de.png": "/static/media/carro.d36055de.png",
+    "static/media/diamond2.a28f7d20.png": "/static/media/diamond2.a28f7d20.png",
+    "static/media/image3.0375d3ef.png": "/static/media/image3.0375d3ef.png",
+    "static/media/playa.09042758.jpg": "/static/media/playa.09042758.jpg",
+    "static/media/playa2.34b0e62b.jpg": "/static/media/playa2.34b0e62b.jpg",
+    "static/media/playa3.bb87bb98.jfif": "/static/media/playa3.bb87bb98.jfif",
+    "static/media/playa4.15689e3b.jpg": "/static/media/playa4.15689e3b.jpg",
+    "static/media/playa5.b12dceb9.jpg": "/static/media/playa5.b12dceb9.jpg",
+    "static/media/playa6.37052356.jpg": "/static/media/playa6.37052356.jpg",
+    "static/media/playa7.99136cff.jpg": "/static/media/playa7.99136cff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08bf9cf.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.56a0e1e0.chunk.js",
+    "static/css/main.315fb713.chunk.css",
+    "static/js/main.50e84262.chunk.js"
+  ]
+}
